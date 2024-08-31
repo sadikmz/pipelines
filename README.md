@@ -1,7 +1,8 @@
 Pipelines or packages collection list for analyzing variouse genomic data
 ================
 
-<!-- This is commented out. -->
+Inspired by [Awesome Pipeline](https://github.com/pditommaso/awesome-pipeline)
+
 <!--Genome assembly -->
 <!-------------------------------->
 
