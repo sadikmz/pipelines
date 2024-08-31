@@ -2,19 +2,19 @@ Pipelines or packages collection list for analyzing variouse genomic data
 ================
 
 <!-- This is commented out. -->
-Genome assembly
---------------------------------
+<!--Genome assembly -->
+<!-------------------------------->
 
-Genome curation
---------------------------------
+<!--Genome curation>
+<!-------------------------------->
 
 Repeatitive element identification and annotation
 --------------------------------
 * [ModDotPlot](https://github.com/marbl/ModDotPlot) - Rapid and interactive visualization of complex repeats.
 
 
-Centromeric repeats identification and annotation
---------------------------------
+<!Centromeric repeats identification and annotation>
+<!-------------------------------->
 
 Genome aligners 
 --------------------------------
