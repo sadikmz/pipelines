@@ -9,6 +9,8 @@ Genome curation
 
 Repeatitive element identification and annotation
 --------------------------------
+* [ModDotPlot](https://github.com/marbl/ModDotPlot) - Rapid and interactive visualization of complex repeats.
+
 
 Centromeric repeats identification and annotation
 --------------------------------
