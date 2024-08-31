@@ -10,7 +10,7 @@ Genome curation
 Repeatitive element identification and annotation
 --------------------------------
 
-Centromere repeats identification and annotation
+Centromeric repeats identification and annotation
 --------------------------------
 
 Genome aligners 
