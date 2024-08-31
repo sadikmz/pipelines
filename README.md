@@ -1,4 +1,4 @@
-# Pipeline or package collection for variouse analysis of genomic data
+Pipeline or package collection for variouse analysis of genomic data
 ================
 
 Genome assembly
