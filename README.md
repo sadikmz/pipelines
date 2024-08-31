@@ -1,4 +1,4 @@
-Pipeline or package collection for variouse analysis of genomic data
+Pipelines or packages collection list for analyzing variouse genomic data
 ================
 
 Genome assembly
