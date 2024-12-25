@@ -1,4 +1,4 @@
-Pipelines or packages collection list for analyzing variouse genomic data
+Pipelines or tools collection list for analyzing various genomic data
 ================
 
 Inspired by [Awesome Pipeline](https://github.com/pditommaso/awesome-pipeline)
@@ -21,6 +21,10 @@ Genome aligners
 --------------------------------
 
 * [FastGA](https://github.com/thegenemyers/FASTGA) - A Fast Genome Aligner.
+
+Pangenome
+--------------------------------
+* [gfatools](https://github.com/marschall-lab/gaftools) - Processing pangenome alignments
 
 
 Other projects
