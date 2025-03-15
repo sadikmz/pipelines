@@ -35,6 +35,8 @@ SVs
 Genome aligners 
 --------------------------------
 
+Genome aligners
+-------------------------------
 * [FastGA](https://github.com/thegenemyers/FASTGA) - A Fast Genome Aligner.
 
 Pangenome
