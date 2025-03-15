@@ -19,6 +19,8 @@ Repeatitive element identification and annotation
 * [ModDotPlot](https://github.com/marbl/ModDotPlot) - Rapid and interactive visualization of complex repeats.
 * [sTELLeR](https://github.com/kristinebilgrav/sTELLeR) - Detecting transposable elements in long-read genomes.
 * [TeloSerachLR](https://github.com/gchchung/TeloSearchLR) - telomere search using long sequencing reads.
+* [telescope](https://github.com/mlbendall/telescope) - Single locus resolution of Transposable ELEment expression.
+* [teloscope](https://github.com/vgl-hub/teloscope) - A universal telomere annotation tool for genome assemblies.
 * [TE-seq](https://github.com/maxfieldk/TE-Seq) - A Transposable Element Annotation and RNA-Seq Pipeline. 
 * [HiTE](https://github.com/CSU-KangHu/HiTE) - Transposable Elements detection
 * [TEtrimmer](https://github.com/qjiangzhao/TEtrimmer) - Manual curation of TEs.
