@@ -3,8 +3,10 @@ Pipelines or tools collection list for analyzing various genomic data
 
 Inspired by [Awesome Pipeline](https://github.com/pditommaso/awesome-pipeline)
 
-<!--Genome assembly -->
-<!-------------------------------->
+Genome assembly and assembly QC
+--------------------------------
+* [Inspector](https://github.com/Maggi-Chen/Inspector) - A reference-free assembly evaluator.
+
 Kmer profiling 
 ----------------
 * [Brisk](https://github.com/Malfoy/Brisk) - Exact resource-efficient dictionary for k-mers.
@@ -31,8 +33,9 @@ Repeatitive element identification and annotation
 <!-------------------------------->
 SVs
 -----
-* [SVbyEye](https://github.com/daewoooo/SVbyEye) A visual tool to characterize structural variation among whole genome assemblies.
-Genome aligners 
+* [SVbyEye](https://github.com/daewoooo/SVbyEye) - A visual tool to characterize structural variation among whole genome assemblies.
+Genome aligners
+* [smashpp](https://github.com/smortezah/smashpp) - an alignment-free and memory-efficient tool to find genomic rearrangements
 --------------------------------
 
 Genome aligners
@@ -68,6 +71,11 @@ Vizualization tools collection
 -------------------------------
 * [Awesome-genome-vizualization](https://cmdcolin.github.io/awesome-genome-visualization/?latest=true&selected=%23bamscope) - Collections of visualizations.
 
-**Awesome-pangenomes**
+**Awesome bioinformatic resources**
 -------------------------------
 * [awesome-pangenomes](https://github.com/colindaven/awesome-pangenomes) - A list of software capable of analyzing mainly eukaryotic genomes for pangenomics
+* [Awesome awesomeness bioinformatics](https://github.com/Juke34/awesome-awesomeness-bioinformatics) - A curated list of awesome curated lists of awesome softwares and resources in bioinformatics and affiliated areas.
+* [awesome-nanopore](https://github.com/GoekeLab/awesome-nanopore)
+* [Genome assembly tools](https://github.com/nadegeguiglielmoni/genome_assembly_tools) - Collection of genome assembly associated tools. 
+
+
