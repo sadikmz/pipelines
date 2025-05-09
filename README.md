@@ -70,4 +70,4 @@ Vizualization tools collection
 
 **Awesome-pangenomes**
 -------------------------------
-* (awesome-pangenomes)[https://github.com/colindaven/awesome-pangenomes] - A list of software capable of analyzing mainly eukaryotic genomes for pangenomics
+* [awesome-pangenomes](https://github.com/colindaven/awesome-pangenomes) - A list of software capable of analyzing mainly eukaryotic genomes for pangenomics
