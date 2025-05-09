@@ -66,4 +66,7 @@ Related lists
 
 Vizualization tools collection
 -------------------------------
-* [Awesome-genome-vizualization](https://cmdcolin.github.io/awesome-genome-visualization/?latest=true&selected=%23bamscope) - Collections of visualizations. 
+* [Awesome-genome-vizualization](https://cmdcolin.github.io/awesome-genome-visualization/?latest=true&selected=%23bamscope) - Collections of visualizations.
+
+**Awesome-pangenomes**
+(awesome-pangenomes)[https://github.com/colindaven/awesome-pangenomes] - A list of software capable of analyzing mainly eukaryotic genomes for pangenomics
