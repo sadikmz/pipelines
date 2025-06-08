@@ -3,7 +3,15 @@ Pipelines or tools collection list for analyzing various genomic data
 
 Inspired by [Awesome Pipeline](https://github.com/pditommaso/awesome-pipeline)
 
-<!--Genome assembly -->
+Reads correction
+----------------
+* [RAFT](https://github.com/at-cg/RAFT): Repeat Aware Fragmentation Tool)
+
+Assessing genome assembly
+----------------
+- [GQC](https://github.com/nhansen/GQC) - Genome Quality Checker
+- [Inspector](https://github.com/ChongLab/Inspector_protocol) - assessing genome assembly based on long-read sequencing
+- [KMGC](https://github.com/Oujiang-Laboratory-Bioinformatics/KMCG): Kmer-based tools to evaluate and improve T2T level genome assemblies
 <!-------------------------------->
 Kmer profiling 
 ----------------
@@ -26,12 +34,17 @@ Repeatitive element identification and annotation
 * [TEtrimmer](https://github.com/qjiangzhao/TEtrimmer) - Manual curation of TEs.
 * [TEnest](https://github.com/cmdcolin/TEnest/) - TEnest.
 * [MCHelper](https://github.com/GonzalezLab/MCHelper) - Curates transposable element libraries.
+* [anianns](https://github.com/marbl/anianns): Ani augmented Annotation of satellite arrays.
+* [TRF-mod](https://github.com/lh3/TRF-mod): TRF-mod is a modified version of TRF with the identical algorithm.
+* [srf](https://github.com/lh3/srf): tellite Repeat Finder
+* [pacvar](https://github.com/nf-core/pacvar)  -  a pipeline for analyzing long-read PacBio whole genome and repeat expansion sequencing data
 
 <!Centromeric repeats identification and annotation>
 <!-------------------------------->
 SVs
 -----
 * [SVbyEye](https://github.com/daewoooo/SVbyEye) A visual tool to characterize structural variation among whole genome assemblies.
+* [longcallD](https://github.com/yangao07/longcallD)
 Genome aligners 
 --------------------------------
 
@@ -47,6 +60,8 @@ Pangenome
 * [Pangene](https://github.com/lh3/pangene) - Constructing a pangenome gene graph.
 * [mumemto](https://github.com/vikshiv/mumemto) - finding multi-MUMs and MEMs in pangenomes.
 * [multi-MUMs](https://www.biorxiv.org/content/10.1101/2024.10.29.620953v1.full) - Improved pangenomic classification accuracy with chain statistics.
+- [varigraph](https://github.com/JiaoLab2021/varigraph) - Pangenome graph-based variant genotyper for diploid and polyploid genomes.
+* [PVGwfa](https://github.com/nudt-bioinfo/PVGwfa): Multi-Level Parallel Sequence-to-Graph Alignment Tool
 
 
 DNA/Protein structure/modelling 
@@ -63,6 +78,12 @@ Related lists
 * [MSAplot](https://github.com/qjiangzhao/TEtrimmer) - MSA visualization. 
 * [tangermeme](https://github.com/jmschrei/tangermeme) -  Implementations of FIMO and TOMTOM.
 * [dSQ](https://github.com/ycrc/dsq) - Submit Job Arrays with dSQ
+* [xsra](https://github.com/arcInstitute/xsra): A performant and storage-efficient CLI tool to extract sequences from an SRA archive with support for FASTA, FASTQ, and [BINSEQ](https://github.com/arcinstitute/binseq) outputs.
+* [eccLib](https://gitlab-pages.platinum.edu.pl/eccdna/eccLib/): Parsing GTF and FASTA files using the [eccLib Library](https://gitlab.platinum.edu.pl/eccdna/eccLib) 
+* [PHast](https://www.arxiv.org/abs/2504.17918): PHast -- Perfect Hashing with fast evaluation
+* [SimdSketch](https://github.com/RagnarGrootKoerkamp/simd-sketch): A SIMD-accelerated library to compute two types of sketches:
+
+
 
 Vizualization tools collection
 -------------------------------
