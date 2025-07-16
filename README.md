@@ -88,3 +88,12 @@ Related lists
 Vizualization tools collection
 -------------------------------
 * [Awesome-genome-vizualization](https://cmdcolin.github.io/awesome-genome-visualization/?latest=true&selected=%23bamscope) - Collections of visualizations. 
+* [pafr](https://github.com/dwinter/pafr) - Read, manipulate and visualize 'Pairwise mApping Format' data in R
+* [repeatR](https://github.com/dwinter/repeatR) - Read and analyse RepeatMasker output in R.
+
+
+  
+
+Other
+----------------
+* [CLUES2](https://github.com/avaughn271/CLUES2?tab=readme-ov-file) -  program to infer selection coefficients, evaluate the statistical evidence for selection, and reconstruct historic allele frequencie
