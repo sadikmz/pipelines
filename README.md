@@ -63,6 +63,7 @@ Orthology inference
 * [Orthofinder]()
 * [TOGA](https://github.com/hillerlab/TOGA): Tool to infer orthologs from genome alignments.
 * [OrthoMCL](https://orthomcl.org/orthomcl/)
+* [FastOMA](https://github.com/DessimozLab/FastOMA): FastOMA is a scalable software package to infer orthology relationship.
 
 SVs
 -----
