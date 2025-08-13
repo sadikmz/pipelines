@@ -1,4 +1,4 @@
-Pipelines or tools collection list for analyzing various genomic data
+Pipelines / tools collection for analyzing various genomic dataset
 ================
 
 Inspired by [Awesome Pipeline](https://github.com/pditommaso/awesome-pipeline)
