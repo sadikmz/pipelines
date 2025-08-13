@@ -41,12 +41,33 @@ Repeatitive element identification and annotation
 
 <!Centromeric repeats identification and annotation>
 <!-------------------------------->
+
+Protein coding gene prediction
+--------------------------------
+* [ensembl-anno](https://github.com/Ensembl/ensembl-anno)	
+* [MAKER](https://github.com/Yandell-Lab/maker)
+* [AMAW](https://bitbucket.org/phylogeno/amaw/src/master/): Automated MAKER2 Annotation Wrapper
+* [Genomeannotator](https://nf-co.re/genomeannotator/dev/docs/usage): genomeannotator is a nextflow pipeline for the annotation of metazoan genomes. While nothing within the pipelines makes it particularily specific to this taxonomic group, it has only been tested (and developed) for this purpose
+* [Funannotate](https://github.com/nextgenusfs/funannotate)	
+* AnnotaPipeline	
+* [BRAKER](https://hub.docker.com/r/teambraker/braker3): EASEL (Efficient, Accurate, Scalable Eukaryotic modeLs), a tool for improvement of eukaryotic genome annotation	
+* [EASEL](https://gitlab.com/PlantGenomicsLab/easel)	
+* [GALBA](https://github.com/Gaius-Augustus/GALBA)	
+* [Helixer](https://github.com/weberlab-hhu/Helixer): Helixer is a tool for structural genome annotation. It utilizes Deep Neural Networks and a Hidden Markov Model to directly provide primary gene models in a gff3 file.
+* [TAGADA](https://github.com/FAANG/analysis-TAGADA): Transcript And Gene Assembly, Deconvolution, Analysis
+* [GeneForge](https://github.com/SequAna-Ukon/GeneForge)
+* [Hayai-Annotation](https://github.com/aghelfi/HayaiAnnotation): A functional gene prediction tool that integrates orthologs and gene ontology for network analysis in plant species.
+
+Orthology inference
+--------------------------------
+* [Orthofinder]()
+* [TOGA](https://github.com/hillerlab/TOGA): Tool to infer orthologs from genome alignments.
+* [OrthoMCL](https://orthomcl.org/orthomcl/)
+
 SVs
 -----
 * [SVbyEye](https://github.com/daewoooo/SVbyEye) A visual tool to characterize structural variation among whole genome assemblies.
 * [longcallD](https://github.com/yangao07/longcallD)
-Genome aligners 
---------------------------------
 
 Genome aligners
 -------------------------------
