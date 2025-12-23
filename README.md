@@ -112,8 +112,9 @@ Vizualization tools collection
 * [pafr](https://github.com/dwinter/pafr) - Read, manipulate and visualize 'Pairwise mApping Format' data in R
 * [repeatR](https://github.com/dwinter/repeatR) - Read and analyse RepeatMasker output in R.
 
-
-  
+Sequence alignment
+----------------
+* [Accelign](https://github.com/fkallen/Accelign) - Fast GPU-accelerated sequence alignments.
 
 Other
 ----------------
