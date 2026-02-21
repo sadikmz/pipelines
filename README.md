@@ -7,6 +7,14 @@ Reads correction
 ----------------
 * [RAFT](https://github.com/at-cg/RAFT): Repeat Aware Fragmentation Tool)
 
+Genome assembly (long-read) / long-read genome assembly and analysing tools
+----------------
+* [hifiasm](https://github.com/chhylp123/hifiasm)
+* [verkko](https://github.com/marbl/verkko)
+* [Nallo](https://github.com/genomic-medicine-sweden/nallo) - a Nextflow pipeline for comprehensive human long-read genome analysis.
+
+
+
 Assessing genome assembly
 ----------------
 - [GQC](https://github.com/nhansen/GQC) - Genome Quality Checker
@@ -86,6 +94,9 @@ Pangenome
 - [varigraph](https://github.com/JiaoLab2021/varigraph) - Pangenome graph-based variant genotyper for diploid and polyploid genomes.
 * [PVGwfa](https://github.com/nudt-bioinfo/PVGwfa): Multi-Level Parallel Sequence-to-Graph Alignment Tool
 
+Protein families / domains
+----------------
+- [nf-core/proteinfamilies](https://github.com/nf-core/proteinfamilies/tree/dev)
 
 DNA/Protein structure/modelling 
 ----------------
