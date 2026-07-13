@@ -46,6 +46,9 @@ Repeatitive element identification and annotation
 * [TRF-mod](https://github.com/lh3/TRF-mod): TRF-mod is a modified version of TRF with the identical algorithm.
 * [srf](https://github.com/lh3/srf): tellite Repeat Finder
 * [pacvar](https://github.com/nf-core/pacvar)  -  a pipeline for analyzing long-read PacBio whole genome and repeat expansion sequencing data
+* [LTRpred](https://github.com/drostlab/LTRpred)
+* [GraffiTE](https://github.com/cgroza/GraffiTE)
+* [EDTA](https://github.com/oushujun/EDTA)
 
 <!Centromeric repeats identification and annotation>
 <!-------------------------------->
